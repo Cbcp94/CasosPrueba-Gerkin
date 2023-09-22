@@ -17,8 +17,8 @@ public class intentoPagarSuministroCuentaBloquedaContraDeposito {
     @Then("^si se ejecuta el pago$")
     public void ejecutaPago() {
     }
-ss
-    @And("^Presenta mensaje <<insertar papeleta>>$")
+
+    @And("^Presenta mensaje insertar papeleta$")
     public void presentaMensajePapeleta() {
     }
 
